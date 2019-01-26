@@ -1,6 +1,6 @@
 {
   "name": "sliding-navbar",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A little component for creating a smooth sliding navbar for your application.",
   "main": "dist/index.js",
   "repository": {
