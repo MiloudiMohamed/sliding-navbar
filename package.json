@@ -3,6 +3,14 @@
   "version": "0.1.0",
   "description": "A little component for creating a smooth sliding navbar for your application.",
   "main": "dist/index.js",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/MiloudiMohamed/sliding-navbar.git"
+  },
+  "homepage": "https://github.com/MiloudiMohamed/sliding-navbar#readme",
+  "bugs": {
+    "url": "https://github.com/MiloudiMohamed/sliding-navbar/issues"
+  },
   "scripts": {
     "dev": "npm run development",
     "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
