@@ -30,7 +30,7 @@ Import it into an existing component:
 ```
 
 **Note**
-> This is just a slot, put whatever your want inside
+> This is just a slot, put whatever you want inside
 
 ## More controll
 
@@ -38,9 +38,9 @@ This is a list of props you can override to fit your needs
 
 > nav-height: default: 80 - type: Number (px)
 
-> duration: default: 80 - type: Number (px)
+> duration: default: 200 - type: Number (ms)
 
-> trigger-at: default: 200 - type: Number (ms)
+> trigger-at: default: 80 - type: Number (px)
 
 
 ## Example
