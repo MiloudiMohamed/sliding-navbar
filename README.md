@@ -1,5 +1,9 @@
 # sliding-navbar
 
+![](https://img.shields.io/npm/v/sliding-navbar.svg?label=version&colorB=blue&style=flat)
+![](https://img.shields.io/npm/dt/sliding-navbar.svg?style=flat)
+![](https://img.shields.io/npm/l/sliding-navbar.svg?style=flat)
+
 A little component for creating a smooth sliding navbar for your application.
 
 ![alt text](/preview/sliding-navbar.gif)
